@@ -1,0 +1,68 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.caja1{
+    background-image: url("http://127.0.0.1:5500/assets/images/gunsNroses.jpg");
+    text-align: center;
+    color: white;
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 70px;
+    padding: 200px;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+}
+.CRT{
+    margin-top: 100px;
+}
+.caja2{
+    background-color:rgb(27, 27, 96);
+    color: white;
+    padding: 10px;
+}
+.container{
+    margin: 15px;
+    padding: 15px;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.cont1{
+    text-align: justify;
+    font-size: 20px;
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    width: 300px;
+    height: 500px;
+}
+.cont2{
+    text-align: justify;
+    font-size: 20px;
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    width: 300px;
+    height: 415px;
+}
+.cont3{
+    text-align: justify;
+    font-size: 20px;
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    width: 300px;
+    height: 603px;
+}
+.cont4{
+    text-align: justify;
+    font-size: 20px;
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    width: 300px;
+    height: 529px;
+}
+
